@@ -12,11 +12,17 @@ In this app we are fetching this API (https://hn.algolia.com/api/v1/search?tags=
 
 The main functionality that was applied in this project:
 IOS,
+
 SwiftUI,
+
 UIKit,
+
 MVC,
+
 URLSession,
+
 WebView WebKit,
+
 JSON parsing
 
 

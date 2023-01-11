@@ -6,12 +6,16 @@ In this app we are fetching this API (https://api.tvmaze.com/seasons/1/episodes)
 
 
 The main functionality that was applied in this project:
-
-JSON parsing
+IOS
+Swift
+UIKit
+MVC
 URLSession
+JSON parsing
 
 
 Example
 
 
-![Simulator Screen Shot - iPhone 13 Pro - 2023-01-11 at 09 00 25](https://user-images.githubusercontent.com/56352158/211711427-c280e8ed-57cc-4fbb-9de8-91fdc4197665.png) ![Simulator Screen Shot - iPhone 13 Pro - 2023-01-11 at 09 00 42](https://user-images.githubusercontent.com/56352158/211711438-e552e6bd-4b82-498f-bc63-05463d06d64e.png)
+![Simulator Screen Shot - iPhone 13 Pro - 2023-01-11 at 09 00 25](https://user-images.githubusercontent.com/56352158/211711427-c280e8ed-57cc-4fbb-9de8-91fdc4197665.png){ width: 200px; }
+![Simulator Screen Shot - iPhone 13 Pro - 2023-01-11 at 09 00 42](https://user-images.githubusercontent.com/56352158/211711438-e552e6bd-4b82-498f-bc63-05463d06d64e.png)

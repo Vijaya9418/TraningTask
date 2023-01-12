@@ -12,10 +12,15 @@ In this app we are fetching this API (https://api.tvmaze.com/seasons/1/episodes)
 
 The main functionality that was applied in this project:
 IOS,
+
 Swift,
+
 UIKit,
+
 MVC,
+
 URLSession,
+
 JSON parsing
 
 
